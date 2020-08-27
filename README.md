@@ -2,7 +2,7 @@
 <p align="center">
   <img src="Logo_SA.png" width="250" align="left" title="www.scienceacademy.ca">
 </p>
-<br />
+
   <hr>
   
 # [www.scienceacademy.ca](www.scienceacademy.ca)
