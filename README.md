@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo_SA.png" width="250">
+  <img src="Logo_SA.png" width="250" title="hover text">
 </p>
 
 # [www.scienceacademy.ca](www.scienceacademy.ca)
