@@ -2,9 +2,8 @@
 <p align="center">
   <img src="Logo_SA.png" width="250" align="left" title="www.scienceacademy.ca">
 </p>
-<br>
-<br>
-<br>
+<hr>
+
 # [www.scienceacademy.ca](www.scienceacademy.ca)
 ## [Plotly](https://plotly.com) and [Dash](https://dash.plotly.com) in Action
 
