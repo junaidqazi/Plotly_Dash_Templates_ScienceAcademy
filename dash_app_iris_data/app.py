@@ -10,6 +10,7 @@
 
 # In[ ]:
 
+#Deployed on heroku: https://iris-sci-acd-01.herokuapp.com/
 
 import numpy as np
 import pandas as pd
