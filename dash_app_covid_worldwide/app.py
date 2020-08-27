@@ -48,7 +48,7 @@ def get_data_in_df():#url):
     https://opendata.ecdc.europa.eu/covid19/casedistribution/csv. In case, the server is down, the data will
     be read from the csv file on git, this data may not be the latest version.
     git url is given below:
-    /Users/junaidqazi-13/Desktop/My_Git_Repos/datasets-practice-qazi/COVID-19-geographic-disbtribution-worldwide-2020-08-19.csv
+    https://raw.githubusercontent.com/junaidqazi/DataSets_Practice_ScienceAcademy/master/COVID-19-geographic-disbtribution-worldwide-2020-08-19.csv
     """
     try:
         print("Reading data from the original source 'opendata.europa.eu'..... !")
@@ -57,7 +57,7 @@ def get_data_in_df():#url):
     except:
         print("The original data source is either down and not responding, or, the provided url is not correct.")
         print("Reading data file stored in the git account and it may not be the latest updated version.")
-        git_url="/Users/junaidqazi-13/Desktop/My_Git_Repos/datasets-practice-qazi/COVID-19-geographic-disbtribution-worldwide-2020-08-19.csv"
+        git_url="https://raw.githubusercontent.com/junaidqazi/DataSets_Practice_ScienceAcademy/master/COVID-19-geographic-disbtribution-worldwide-2020-08-19.csv"
         #git_url=url
         df=pd.read_csv(git_url)
         print("Data read from the git, this may not be the updated version.")

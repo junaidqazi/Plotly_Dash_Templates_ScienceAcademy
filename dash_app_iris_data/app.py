@@ -21,7 +21,7 @@ import dash_html_components as html
 
 #############################################################################################################
 # I am reading iris dataset from my git repo of datasets
-url = "https://raw.githubusercontent.com/junaidqazi/datasets-practice-qazi/master/Iris.csv"
+url = "https://raw.githubusercontent.com/junaidqazi/DataSets_Practice_ScienceAcademy/master/Iris.csv"
 iris_df = pd.read_csv(url)
 iris_df[["NoNeed", "FlowerName"]] =  iris_df.Species.str.split('-', expand = True)
 iris_df.drop(['Species', 'NoNeed'], axis=1, inplace = True)#.head(2)
