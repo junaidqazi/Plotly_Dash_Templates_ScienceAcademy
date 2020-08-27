@@ -4,7 +4,7 @@
 ### Links to the templates:
 
 Complete code is provided for these simple example dashboards in this repository. <br>
-We can get you what you want for your data, [contact us](www.scienceacademy.ca).<br>
+We can create what you want for your data, [contact us](www.scienceacademy.ca).<br>
 These example dashboards are deployed on these links:
 
 * [CoVID-19 Worldwide](https://covid-19-world-sa.herokuapp.com)
