@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Logo_SA.png" width="350" title="hover text">
+  <img src="Logo_SA.png" width="350" alt="accessibility text">
+</p>
+
 # [www.scienceacademy.ca](www.scienceacademy.ca)
 ## [Plotly](https://plotly.com) and [Dash](https://dash.plotly.com) in Action
 
@@ -9,5 +14,3 @@ These example dashboards are deployed on these links:
 
 * [CoVID-19 Worldwide](https://covid-19-world-sa.herokuapp.com)
 * [iris app](http://iris-sci-acd-01.herokuapp.com) This is very simple and easy to follow (DIY)
-
-
