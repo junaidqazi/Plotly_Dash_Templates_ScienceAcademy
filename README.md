@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="Logo_SA.png" width="350" title="hover text">
-  <img src="Logo_SA.png" width="350" alt="accessibility text">
+  <img src="Logo_SA.png" width="200">
 </p>
 
 # [www.scienceacademy.ca](www.scienceacademy.ca)
