@@ -4,11 +4,7 @@
 </p>
 <br>
 <br>
-
-
-
-
-
+<br>
 # [www.scienceacademy.ca](www.scienceacademy.ca)
 ## [Plotly](https://plotly.com) and [Dash](https://dash.plotly.com) in Action
 
