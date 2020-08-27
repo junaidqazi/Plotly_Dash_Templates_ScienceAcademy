@@ -6,7 +6,8 @@
 
 # #### Let's read the data directly from the website/source
 # [Website link to the datasets](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)<br>
-# As of, August 19, 2020, the data files (`.csv` and `.xlsx`) are also available on [this link in my personal git repository](https://raw.githubusercontent.com/junaidqazi/datasets-practice-qazi/master/COVID-19-geographic-disbtribution-worldwide-2020-08-19.csv)
+# As of, August 19, 2020, the data files (`.csv` and `.xlsx`) are also available on the link below:
+# https://raw.githubusercontent.com/junaidqazi/DataSets_Practice_ScienceAcademy/master/COVID-19-geographic-disbtribution-worldwide-2020-08-19.csv
 
 # In[1]:
 
