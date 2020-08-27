@@ -1,1 +1,1 @@
-### [Click here to see the deployed on heroku.](https://covid-19-world-sa.herokuapp.com) 
+### [Click here to see the deployed dashboard on heroku.](https://covid-19-world-sa.herokuapp.com) 
