@@ -18,4 +18,4 @@ These example dashboards are deployed on these links:
 * [iris app](http://iris-sci-acd-01.herokuapp.com) This is very simple and easy to follow (DIY)
 
 
-In this repository, **`bWLwgP.css`** is a copy of standared style sheet, in case, the [original link](https://codepen.io/chriddyp/pen/bWLwgP.css) is down for some reason and is not accessible...!
+In this repository, **`bWLwgP.css`** is a copy of standared style sheet, in case, the [original link](https://codepen.io/chriddyp/pen/bWLwgP.css) is down for some reason and the `.css` file is not accessible...!
