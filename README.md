@@ -16,3 +16,6 @@ These example dashboards are deployed on these links:
 
 * [CoVID-19 Worldwide](https://covid-19-world-sa.herokuapp.com)
 * [iris app](http://iris-sci-acd-01.herokuapp.com) This is very simple and easy to follow (DIY)
+
+
+A copy of 'https://codepen.io/chriddyp/pen/bWLwgP.css' is given, in case the standard style sheet is not accessible...!
